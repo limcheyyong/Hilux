@@ -1,0 +1,11 @@
+.big-logo {
+  padding-top: 100px;
+}
+
+
+@media (min-width: 1500px) {
+  .big-logo {
+    padding-left: 450px;
+    padding-right: 450px;
+  }
+}
